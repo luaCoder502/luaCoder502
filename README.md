@@ -1,47 +1,62 @@
-👋 Hey there, I’m Ryan — Lua Game Developer, Educator & Indie Creator
-I’m a self-taught game developer who turned a childhood passion for games into a full-time creative career. For the past 4+ years, I’ve been building worlds, scripting mechanics, and bringing ideas to life through code.
-
-From humble beginnings tweaking scripts in my room, I’ve grown into a versatile 2D/3D game developer, releasing two full games on Steam and building a loyal community of learners and gamers.
+👋 Hey, I'm Ryan — Lua Game Developer & Educator
+Hi there! I'm a self-taught game developer and educator who turned a lifelong passion for games into a creative career. For over 4 years, I’ve been building immersive games, teaching aspiring developers, and fostering a global community of creators.
 
 🎮 What I Do
-🛠 Game Development
-I craft games from scratch using Lua, blending creativity with clean code to create both 2D pixel art adventures and 3D immersive experiences. My games are powered by engines like Love2D, Defold, and Roblox Studio.
 
-🚀 Steam Releases
-My games aren’t just passion projects — they’ve made it to Steam, where thousands of players around the world have enjoyed the results of my work.
+🛠 Game Development: I craft 2D and 3D games from scratch using Lua, creating everything from pixel art adventures to immersive experiences with engines like Love2D, Defold, and Roblox Studio.
+🚀 Steam Releases: Published 2 games on Steam with positive reviews, enjoyed by thousands of players worldwide. Check them out here!
+📹 YouTube Educator: I run a YouTube channel teaching game dev with beginner-friendly Lua tutorials, guiding students from first lines of code to published games.
+💡 Community Mentor: I mentor new developers, helping them debug code, design games, and publish their first projects.
 
-📹 YouTube Education
-I run a YouTube channel dedicated to teaching the art of game development. From writing your first line of Lua to publishing your own game, I walk my audience through every step with practical, beginner-friendly lessons.
-
-💡 Community Mentor
-I regularly mentor beginner game devs, helping them bring their ideas to life, debug their code, and stay motivated through the challenges of development.
 
 🧠 Skills & Tools
-Languages: Lua, JavaScript, GDScript
 
-Engines: Love2D, Defold, Roblox Studio, Godot
 
-Game Design: Level design, game loops, UI/UX
 
-Publishing: Steamworks integration, asset optimization, performance tuning
+Category
+Details
 
-Content Creation: Video editing, scripting tutorials, community building
 
-🏆 Highlights
-🎉 Released 2 games on Steam with positive reviews
 
-👨‍🏫 Taught hundreds of students how to code through YouTube
+Languages
+Lua, JavaScript, GDScript
 
-🌎 Built a global community of game dev learners
 
-💬 Helped dozens of new developers publish their first games
+Engines
+Love2D, Defold, Roblox Studio, Godot
+
+
+Game Design
+Level design, game loops, UI/UX
+
+
+Publishing
+Steamworks, asset optimization, performance
+
+
+Content Creation
+Video editing, tutorials, community building
+
+
+
+🏆 Achievements
+
+🎉 Released 2 Steam games with positive player feedback
+👨‍🏫 Taught hundreds of students via YouTube tutorials
+🌍 Built a global game dev community
+💬 Helped dozens of beginners publish their first games
+
 
 🚀 Let’s Connect
-Whether you're here to learn, collaborate, or just say hi — I’m always open to new opportunities and fellow creators.
+I’m always up for collaborating, sharing knowledge, or chatting about game dev! Reach out:
 
 📧 Email: yourname@example.com
-📺 YouTube: [Your Channel Name]
-🐦 Twitter: [@yourhandle]
-🎮 Steam: [Link to your games]
-💼 Portfolio: [yourwebsite.com]
+📺 YouTube: Your Channel Name
+🐦 Twitter: @yourhandle
+🎮 Steam: Your Games
+💼 Portfolio: yourwebsite.com
+
+
+
+“Games are art, code is craft, and learning is a journey—let’s build something epic!”
 
